@@ -1,10 +1,11 @@
 # Instructions
 
 - Create a virtualenv
-  python -m venv .venv
+
+- python -m venv .venv
 
 - Activate vitualenv
 
-Copy file .whl to root 
+- Copy file .whl to root 
 
-python -m gaph.main
+- python -m gaph.main
