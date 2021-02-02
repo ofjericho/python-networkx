@@ -20,7 +20,7 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        "bleach==3.1.4",
+        "bleach==3.3.0",
         "certifi==2020.4.5.1",
         "chardet==3.0.4",
         "cycler==0.10.0",
