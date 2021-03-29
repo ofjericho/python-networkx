@@ -35,7 +35,7 @@ setuptools.setup(
         "networkx==2.4",
         "numpy==1.18.3",
         "pkginfo==1.5.0.1",
-        "Pygments==2.6.1",
+        "Pygments==2.7.4",
         "pyloco==0.0.139",
         "pyparsing==2.4.7",
         "python-dateutil==2.8.1",
