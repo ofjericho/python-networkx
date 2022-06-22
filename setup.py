@@ -33,7 +33,7 @@ setuptools.setup(
         "matplot==0.1.9",
         "matplotlib==3.2.1",
         "networkx==2.4",
-        "numpy==1.18.3",
+        "numpy==1.22.0",
         "pkginfo==1.5.0.1",
         "Pygments==2.6.1",
         "pyloco==0.0.139",
